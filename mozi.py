@@ -2,15 +2,6 @@ import random
 #0 = üres, 1 = gyerek, 2 = diák, 3 = felnőtt
 
 terem = []
-felsor = []
-sor = []
-bevetel = 0
-teljesAr = 0
-senki = 0
-nullstreak = 0
-maxNullstreak = 0
-occurance = False
-
 
 def teremGeneralas():
 
